@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restaurant-billing-app/static/css/main.6c4a25a1.css",
+    "main.js": "/restaurant-billing-app/static/js/main.eac40d26.js",
+    "index.html": "/restaurant-billing-app/index.html",
+    "main.6c4a25a1.css.map": "/restaurant-billing-app/static/css/main.6c4a25a1.css.map",
+    "main.eac40d26.js.map": "/restaurant-billing-app/static/js/main.eac40d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c4a25a1.css",
+    "static/js/main.eac40d26.js"
+  ]
+}
